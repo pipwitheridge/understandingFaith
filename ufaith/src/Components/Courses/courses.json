@@ -1,0 +1,70 @@
+[
+    {
+      "courseNumber": 1,
+      "courseName": "Faith: An Overview",
+      "courseSummary": "In this course we'll explore what faith is and how it has manifested in the world for millenia.",
+      "courseIcon": "insert icon here",
+      "Modules": [
+            {
+                "moduleNumber": 1,
+                "moduleName": "What is faith?",
+                "moduleSummary": "Defining faith is not as easy as it might sound. In this module we'll explore how different people have sought to define faith, and we'll present a working definition for us to use in these lessons.",
+                "moduleIcon": "target",
+                "videoLink": "https://www.youtube.com/embed?v=AjBuPHxffw4"
+            },
+            {
+                "moduleNumber": 2,
+                "moduleName": "Faith: a very brief history",
+                "moduleSummary": "Here we'll explore evidence we have about religious faith in the communities of early humans, and survey how faith has developed in different ways in different places from then until the present day.",
+                "moduleIcon": "history",
+                "videoLink": "https://www.youtube.com/embed?v=AjBuPHxffw4"
+            },
+            {
+                "moduleNumber": 3,
+                "moduleName": "Current global trends",
+                "moduleSummary": "This module explores geographic and demographic trends in the major world religions of today.",
+                "moduleIcon": "globe",
+                "videoLink": "https://www.youtube.com/embed?v=AjBuPHxffw4"
+            }
+
+      ]
+    },
+    {
+        "courseNumber": 2,
+        "courseName": "Christianity: An Overview",
+        "courseSummary": "In this course we'll explore the history, texts, beliefs and modern manifestations of Christianity.",
+        "courseIcon": "insert icon here",
+        "Modules": [
+              {
+                  "moduleNumber": 1,
+                  "moduleName": "Core Beliefs",
+                  "moduleSummary": "In this module we'll explore the views commonly held by major Christian commnuities.",
+                  "moduleIcon": "heart",
+                  "videoLink": "https://www.youtube.com/embed?v=AjBuPHxffw4"
+              },
+              {
+                  "moduleNumber": 2,
+                  "moduleName": "A Brief History",
+                  "moduleSummary": "Here we'll explore a brief history of Christianity.",
+                  "moduleIcon": "history",
+                  "videoLink": "https://www.youtube.com/embed?v=AjBuPHxffw4"
+              },
+              {
+                  "moduleNumber": 3,
+                  "moduleName": "Major Texts",
+                  "moduleSummary": "Here we'll explore the Bible and other major texts within Christianity.",
+                  "moduleIcon": "texts",
+                  "videoLink": "https://www.youtube.com/embed?v=AjBuPHxffw4"
+              },
+              {
+                "moduleNumber": 4,
+                "moduleName": "Current Manifestations of Christianity",
+                "moduleSummary": "This module explores what Christianity looks like worldwide today.",
+                "moduleIcon": "globe",
+                "videoLink": "https://www.youtube.com/embed?v=AjBuPHxffw4"
+            }
+
+  
+        ]
+      }
+]
