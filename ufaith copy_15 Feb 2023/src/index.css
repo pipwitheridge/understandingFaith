@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.chapterButton {
+  width: 50px !important;
+  height: 50px !important;  
+}
+
+.BookButtonQuran {
+  width: 250px !important;
+  height: 50px !important;  
+}
+
+.likeReplyButton {
+  font-size: 15px;
+}
+
+.likeReplyButton :hover {
+  text-decoration: underline;
+  cursor: pointer;
+  font-size: 15px;
+}
+
+.form-check-input:disabled~.form-check-label, .form-check-input[disabled]~.form-check-label {
+  opacity: 1 !important;
+}
+
+
+
+.navArrow {
+  color: black;
+  width: 30px; 
+  height: 30px
+}
+
+.hoverGrey:hover { color:rgb(75, 75, 75)}
+
+

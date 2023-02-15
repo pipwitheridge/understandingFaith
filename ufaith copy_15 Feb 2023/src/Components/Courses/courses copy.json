@@ -1,0 +1,328 @@
+[
+    {
+      "courseNumber": 1,
+      "courseName": "Faith: An Introduction",
+      "courseSummary": "In this course we'll explore what faith is and how it has manifested in the world for millenia.",
+      "units": [
+            {
+                "unitNumber": 1,
+                "unitName": "What is faith?",
+                "unitSummary": "Defining faith is not as easy as it might sound. In this module we'll explore how different people have sought to define faith, and we'll present a working definition for us to use in these lessons.",
+                "lessons" : [
+                    {
+                        "lessonNumber": 1,
+                        "lessonName": "Basic Definitions",
+                        "lessonSummary": "In this lesson we'll look at some of the different ways of defining faith, and offer a working definition for our study.",
+                        "modules": [
+                            {
+                                "moduleNumber": 1,
+                                "moduleName": "Sociological Definitions",
+                                "contentType": "Video",
+                                "videoLink": "eTFy8RnUkoU"
+                            },
+                            {
+                                "moduleNumber": 2,
+                                "moduleName": "Religious Definitions",
+                                "contentType": "Video",
+                                "videoLink": "M0cjZpwjX1o"
+                            }
+                        ]                     
+                    },
+                    {
+                        "lessonNumber": 2,
+                        "lessonName": "How is faith formed?",
+                        "modules": [
+                            {
+                                "moduleNumber": 1,
+                                "moduleName": "Prehistoric Evolution",
+                                "contentType": "Video",
+                                "videoLink": "O0bYFbeDDJc"
+                            },
+                            {
+                                "moduleNumber": 2,
+                                "moduleName": "Personal Experiences",
+                                "contentType": "Video",
+                                "videoLink": "nsquMO7QreU"
+                            }
+                        ]                               
+                    },
+                    {
+                        "lessonNumber": 3,
+                        "lessonName": "Faith and Reason",
+                        "modules": [
+                            {
+                                "moduleNumber": 1,
+                                "moduleName": "Prehistoric Evolution 2",
+                                "contentType": "Video",
+                                "videoLink": "O0bYFbeDDJc"                      
+                            },
+                            {
+                                "moduleNumber": 2,
+                                "moduleName": "How faith and reason coexist 2",
+                                "contentType": "Video",
+                                "videoLink": "MfcaYmXqJsA"
+                            }
+                        ]                    
+                    }
+                ],
+             "quiz": [
+                {
+                    "questionNumber": 1,
+                    "questionType": "MultipleChoice",
+                    "question": "What is faith?",
+                    "options": ["trust", "obedience", "love"],
+                    "correctAnswer": ["trust", "obedience"]
+                },
+                {
+                    "questionNumber": 2,
+                    "questionType": "MultipleChoice",
+                    "question": "How is faith different to knowledge?",
+                    "options": ["Knowledge is testable", "Knowledge tends toward things you can observe", "Nothing at all"],
+                    "correctAnswer": ["Knowledge tends toward things you can observe"]
+                },
+                {
+                    "questionNumber": 3,
+                    "questionType": "MultipleChoice",
+                    "question": "What is the difference between faith and theism?",
+                    "options": ["faith is a more general term", "theism specifically relates to god", "Nothing at all"],
+                    "correctAnswer": ["faith is a more general term", "theism specifically relates to god"]
+                },
+                {
+                    "questionNumber": 4,
+                    "questionType": "MultipleChoice",
+                    "question": "What is the difference between lolol and theism?",
+                    "options": ["faith is a more general term", "theism specifically relates to god", "Nothing at all"],
+                    "correctAnswer": ["faith is a more general term", "theism specifically relates to god"]
+                }
+
+             ]
+            },
+            {
+                "unitNumber": 2,
+                "unitName": "Faith: a very brief history",
+                "unitSummary": "Here we'll explore evidence we have about religious faith in the communities of early humans, and survey how faith has developed in different ways in different places from then until the present day.",
+                "lessons" : [
+                    {
+                        "lessonNumber": 1,
+                        "lessonName": "Early theories of evolution",
+                        "modules": [
+                            {
+                                "moduleNumber": 1,
+                                "moduleName": "Prehistoric Evolution 4",
+                                "contentType": "Video",
+                                "videoLink": "O0bYFbeDDJc"
+                            },
+                            {
+                                "moduleNumber": 2,
+                                "moduleName": "Personal Experiences 4",
+                                "contentType": "Video",
+                                "videoLink": "nsquMO7QreU"
+                            }
+                        ]                              
+                    },
+                    {
+                        "lessonNumber": 2,
+                        "lessonName": "Faith in early civilisation",
+                        "modules": [
+                            {
+                                "moduleNumber": 1,
+                                "moduleName": "Prehistoric Evolution 3",
+                                "contentType": "Video",
+                                "videoLink": "O0bYFbeDDJc"
+                            },
+                            {
+                                "moduleNumber": 2,
+                                "moduleName": "Personal Experiences 3",
+                                "contentType": "Video",
+                                "videoLink": "nsquMO7QreU"
+                            }
+                        ]                              
+                    }
+                ],
+                "quiz": [
+                    {
+                        "questionNumber": 1,
+                        "questionType": "MultipleChoice",
+                        "question": "What is faith lol?",
+                        "options": ["trust", "obedience", "love"],
+                        "correctAnswer": ["love"]
+                    },
+                    {
+                        "questionNumber": 2,
+                        "questionType": "MultipleChoice",
+                        "question": "How is faith different to knowledge?",
+                        "options": ["Knowledge is testable", "Knowledge tends toward things you can observe", "Nothing at all"],
+                        "correctAnswer": ["Knowledge tends toward things you can observe"]
+                    },
+                    {
+                        "questionNumber": 3,
+                        "questionType": "MultipleChoice",
+                        "question": "What is the difference between faith and theism?",
+                        "options": ["faith is a more general term", "theism specifically relates to god", "Nothing at all"],
+                        "correctAnswer": ["faith is a more general term", "theism specifically relates to god"]
+                    }
+                 ]
+            }
+
+      ]
+    },
+    {
+        "courseNumber": 2,
+        "courseName": "Faith: An Introduction 2",
+        "courseSummary": "In this course we'll explore what faith is and how it has manifested in the world for millenia.",
+        "units": [
+              {
+                  "unitNumber": 1,
+                  "unitName": "What is faith? 2",
+                  "unitSummary": "Defining faith is not as easy as it might sound. In this module we'll explore how different people have sought to define faith, and we'll present a working definition for us to use in these lessons.",
+                  "lessons" : [
+                      {
+                          "lessonNumber": 1,
+                          "lessonName": "Basic Definitions 2",
+                          "lessonSummary": "In this lesson we'll look at some of the different ways of defining faith, and offer a working definition for our study.",
+                          "modules": [
+                              {
+                                  "moduleNumber": 1,
+                                  "moduleName": "Sociological Definitions 4",
+                                  "contentType": "Video",
+                                  "videoLink": "eTFy8RnUkoU"
+                              },
+                              {
+                                  "moduleNumber": 2,
+                                  "moduleName": "Religious Definitions 4",
+                                  "contentType": "Video",
+                                  "videoLink": "M0cjZpwjX1o"
+                              }
+                          ]                     
+                      },
+                      {
+                          "lessonNumber": 2,
+                          "lessonName": "How is faith formed? 4",
+                          "modules": [
+                              {
+                                  "moduleNumber": 1,
+                                  "moduleName": "Prehistoric Evolution 5",
+                                  "contentType": "Video",
+                                  "videoLink": "O0bYFbeDDJc"
+                              },
+                              {
+                                  "moduleNumber": 2,
+                                  "moduleName": "Personal Experiences 55",
+                                  "contentType": "Video",
+                                  "videoLink": "nsquMO7QreU"
+                              }
+                          ]                               
+                      },
+                      {
+                          "lessonNumber": 3,
+                          "lessonName": "Faith and Reason 6",
+                          "modules": [
+                            {
+                                "moduleNumber": 1,
+                                "moduleName": "Prehistoric Evolution 2",
+                                "contentType": "Video",
+                                "videoLink": "O0bYFbeDDJc"                      
+                            },
+                            {
+                                "moduleNumber": 2,
+                                "moduleName": "How faith and reason coexist 2",
+                                "contentType": "Video",
+                                "videoLink": "MfcaYmXqJsA"
+                            }
+                        ]         
+                      }
+                  ],
+                  "quiz": [
+                    {
+                        "questionNumber": 1,
+                        "questionType": "MultipleChoice",
+                        "question": "What is faith roflmao?",
+                        "options": ["trust", "obedience", "love"],
+                        "correctAnswer": ["love"]
+                    },
+                    {
+                        "questionNumber": 2,
+                        "questionType": "MultipleChoice",
+                        "question": "How is faith different to knowledge?",
+                        "options": ["Knowledge is testable", "Knowledge tends toward things you can observe", "Nothing at all"],
+                        "correctAnswer": ["Knowledge tends toward things you can observe"]
+                    },
+                    {
+                        "questionNumber": 3,
+                        "questionType": "MultipleChoice",
+                        "question": "What is the difference between faith and theism?",
+                        "options": ["faith is a more general term", "theism specifically relates to god", "Nothing at all"],
+                        "correctAnswer": ["faith is a more general term", "theism specifically relates to god"]
+                    }
+                 ]
+              },
+              {
+                  "unitNumber": 2,
+                  "unitName": "Faith: a very brief history5",
+                  "unitSummary": "Here we'll explore evidence we have about religious faith in the communities of early humans, and survey how faith has developed in different ways in different places from then until the present day.",
+                  "lessons" : [
+                      {
+                          "lessonNumber": 1,
+                          "lessonName": "Early theories of evolution 77",
+                          "modules": [
+                              {
+                                  "moduleNumber": 1,
+                                  "moduleName": "Prehistoric Evolution 47",
+                                  "contentType": "Video",
+                                  "videoLink": "O0bYFbeDDJc"
+                              },
+                              {
+                                  "moduleNumber": 2,
+                                  "moduleName": "Personal Experiences 47",
+                                  "contentType": "Video",
+                                  "videoLink": "nsquMO7QreU"
+                              }
+                          ]                              
+                      },
+                      {
+                          "lessonNumber": 2,
+                          "lessonName": "Faith in early civilisation 55",
+                          "modules": [
+                              {
+                                  "moduleNumber": 1,
+                                  "moduleName": "Prehistoric Evolution 378",
+                                  "contentType": "Video",
+                                  "videoLink": "O0bYFbeDDJc"
+                              },
+                              {
+                                  "moduleNumber": 2,
+                                  "moduleName": "Personal Experiences 38",
+                                  "contentType": "Video",
+                                  "videoLink": "nsquMO7QreU"
+                              }
+                          ]                              
+                      }
+                  ],
+                  "quiz": [
+                    {
+                        "questionNumber": 1,
+                        "questionType": "MultipleChoice",
+                        "question": "What is faith hehehehe?",
+                        "options": ["trust", "obedience", "love"],
+                        "correctAnswer": ["love"]
+                    },
+                    {
+                        "questionNumber": 2,
+                        "questionType": "MultipleChoice",
+                        "question": "How is faith different to knowledge?",
+                        "options": ["Knowledge is testable", "Knowledge tends toward things you can observe", "Nothing at all"],
+                        "correctAnswer": ["Knowledge tends toward things you can observe"]
+                    },
+                    {
+                        "questionNumber": 3,
+                        "questionType": "MultipleChoice",
+                        "question": "What is the difference between faith and theism?",
+                        "options": ["faith is a more general term", "theism specifically relates to god", "Nothing at all"],
+                        "correctAnswer": ["faith is a more general term", "theism specifically relates to god"]
+                    }
+                 ]
+              }
+  
+        ]
+      }
+]

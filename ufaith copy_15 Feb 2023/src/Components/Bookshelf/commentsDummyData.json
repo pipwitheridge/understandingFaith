@@ -1,0 +1,105 @@
+[
+    {
+      "userID": 1058378,
+      "username": "johnPiper77",
+      "CommentID": 1,
+      "Text": "Bible",
+      "Book": "Genesis",
+      "Chapter": 1,
+      "Comment": "This chapter is the best thing since Jonathan Edwards invented sliced bread!!",
+      "Timestamp": "28/08/22 6:07pm",
+      "Likers": ["rcSproul", "Neil Douglas"],
+      "Replies": [ {
+                      "userID": 1058379,
+                      "username": "Steve M",
+                      "CommentID": 2,
+                      "Text": "Bible",
+                      "Book": "Genesis",
+                      "Chapter": 1,
+                      "replyingTo": 1,
+                      "Comment": "You know that J.E. didn't invent sliced bread, right?",
+                      "Timestamp": "28/08/22 6:09pm",
+                      "Likers": ["billyGraham282", "rcSproul"]
+                    },
+                    {
+                      "userID": 1058360,
+                      "username": "Billy Bobson",
+                      "CommentID": 7,
+                      "Text": "Bible",
+                      "Book": "Genesis",
+                      "Chapter": 1,
+                      "replyingTo": 1,
+                      "Comment": "Let's get this bread!",
+                      "Timestamp": "28/08/22 6:12pm",
+                      "Likers": ["yaMUM68", "rcSproul", "Casy Elliot"]
+                    },
+                    {
+                      "userID": 10583999,
+                      "username": "MartinLuther13",
+                      "CommentID": 15,
+                      "Text": "Bible",
+                      "Book": "Genesis",
+                      "Chapter": 1,
+                      "replyingTo": 1,
+                      "Comment": "Cool story bro needs more reformation",
+                      "Timestamp": "28/08/22 6:58pm",
+                      "Likers": []
+
+                    }
+                  ]
+    },
+   
+    {
+      "userID": 1058380,
+      "username": "QueenSheba",
+      "CommentID": 3,
+      "Text": "Bible",
+      "Book": "Genesis",
+      "Chapter": 1,
+      "Comment": "I don't understand how God can create things from nothing...",
+      "Timestamp": "28/08/22 6:11pm",
+      "Likers": ["Jimbo", "pipw44", "caleysss", "rcSproul", "Neil Douglas"],
+      "Replies": [
+                  {
+                    "userID": 1058381,
+                    "username": "Doris Li",
+                    "CommentID": 4,
+                    "Text": "Bible",
+                    "Book": "Genesis",
+                    "Chapter": 1,
+                    "replyingTo": 3,
+                    "Comment": "God can do anything! Which means he can create things from nothing...",
+                    "Timestamp": "28/08/22 6:13pm",
+                    "Likers": []
+
+                  }
+                ]
+    },
+    
+    {
+      "userID": 1058382,
+      "username": "Jason B",
+      "CommentID": 5,
+      "Text": "Bible",
+      "Book": "Genesis",
+      "Chapter": 2,
+      "Comment": "I love how this chapter upholds complementarity...",
+      "Timestamp": "28/08/22 6:15pm",
+      "Likers": ["Jimbo", "pipw44", "caleysss", "rcSproul", "Neil Douglas"],
+      "Replies": [
+                  {
+                    "userID": 1058383,
+                    "username": "Pheobe D",
+                    "CommentID": 6,
+                    "Text": "Bible",
+                    "Book": "Genesis",
+                    "Chapter": 2,
+                    "replyingTo": 5,
+                    "Comment": "Amen!",
+                    "Timestamp": "28/08/22 6:17pm",
+                    "Likers": []
+                  }
+                ]
+    }
+    
+   ]

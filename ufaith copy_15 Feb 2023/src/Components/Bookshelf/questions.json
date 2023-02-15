@@ -1,0 +1,56 @@
+[
+    {
+      "bookName": "Genesis",
+      "Chapter": 1,
+      "QuestionNumber": 1,
+      "QuestionType": "MultipleChoice",
+      "Question": "How does God create?",
+      "Answers": ["By speaking", "By singing", "With his hands"],
+      "CorrectAnswer": ["By speaking"]
+    },
+    {
+      "bookName": "Genesis",
+      "Chapter": 1,
+      "QuestionNumber": 2,
+      "QuestionType": "MultipleChoice",
+      "Question": "What colour is the ocean?",
+      "Answers": ["Green", "Blue", "Yellow"],
+      "CorrectAnswer": ["Blue"]
+    },
+    {
+      "bookName": "Genesis",
+      "Chapter": 1,
+      "QuestionNumber": 3,
+      "QuestionType": "MultipleChoice",
+      "Question": "What is hovering over the waters?",
+      "Answers": ["Whales", "Giraffes", "God's Spirit"],
+      "CorrectAnswer": ["God's Spirit"]
+    },
+    {
+      "bookName": "Genesis",
+      "Chapter": 2,
+      "QuestionNumber": 1,
+      "QuestionType": "MultipleChoice",
+      "Question": "Who gives mankind life?",
+      "Answers": ["Adam", "Santa", "God"],
+      "CorrectAnswer": ["God"]
+    },
+    {
+      "bookName": "Genesis",
+      "Chapter": 2,
+      "QuestionNumber": 2,
+      "QuestionType": "MultipleChoice",
+      "Question": "What are the two trees specifically mentioned in 9?",
+      "Answers": ["The tree of apples", "The tree of the knowledge of good and evil", "The tree of chocolate bars", "The tree of life", "The tree of leather"],
+      "CorrectAnswer": ["The tree of the knowledge of good and evil", "The tree of life"]
+    },
+    {
+      "bookName": "Genesis",
+      "Chapter": 2,
+      "QuestionNumber": 3,
+      "QuestionType": "MultipleChoice",
+      "Question": "What is hovering over the waters?",
+      "Answers": ["Whales", "Giraffes", "God's Spirit"],
+      "CorrectAnswer": ["God's Spirit"]
+    }
+   ]
